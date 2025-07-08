@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate learner focused on Full Stack Dev
 
 ## 💻 Projects from freeCodeCamp
 
-- 🔗 [Portfolio Website](https://github.com/12sravanth/freecodecamp-portfolio)
+- 🔗 [Portfolio Website](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
 - 🔗 [Product Landing Page](https://github.com/12sravanth/fcc-product-landing)
 - 🔗 [JavaScript Calculator](https://github.com/12sravanth/fcc-calculator)
 
