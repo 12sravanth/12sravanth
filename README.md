@@ -1,16 +1,47 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**12sravanth/12sravanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 I'm Sravanth
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate learner focused on Full Stack Development, Python Programming, Embedded Systems, and Generative AI (LLMs). I enjoy building practical projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📜 Certifications
+
+- ✅ [Responsive Web Design - freeCodeCamp](https://freecodecamp.org/certification/fcc-baebd93d-38aa-4f06-a3dc-291ff9b88b7f/responsive-web-design)
+- ✅ [JavaScript Algorithms and Data Structures - freeCodeCamp](https://freecodecamp.org/certification/fcc-baebd93d-38aa-4f06-a3dc-291ff9b88b7f/javascript-algorithms-and-data-structures)
+
+
+
+
+
+
+---
+
+## 💻 Projects from freeCodeCamp
+
+- 🔗 [Portfolio Website](https://github.com/12sravanth/freecodecamp-portfolio)
+- 🔗 [Product Landing Page](https://github.com/12sravanth/fcc-product-landing)
+- 🔗 [JavaScript Calculator](https://github.com/12sravanth/fcc-calculator)
+
+> ⚠️ Don’t forget to upload these projects to your GitHub if not already done!
+
+---
+
+## 🤖 AI & Python Projects (Personal)
+
+- 🔹 AI Chatbot using LangChain + OpenAI API
+- 🔹 Resume Generator with Python + LLMs
+- 🔹 Text Summarizer using HuggingFace Transformers
+
+> I'm continuously learning and updating my repositories with new ideas!
+
+---
+
+## 🌐 Connect with Me
+
+- GitHub: [@12sravanth](https://github.com/12sravanth)
+- Email: bongusravanth7799@gmail.com
+
+
+
