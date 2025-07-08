@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a passionate learner focused on Full Stack Dev
 ## 💻 Projects from freeCodeCamp
 
 - 🔗 [Portfolio Website](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
-- 🔗 [Product Landing Page](https://github.com/12sravanth/fcc-product-landing)
-- 🔗 [JavaScript Calculator](https://github.com/12sravanth/fcc-calculator)
+- 🔗 [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
+- 🔗 [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-cash-register-project/build-a-cash-register)
 
 > ⚠️ Don’t forget to upload these projects to your GitHub if not already done!
 
